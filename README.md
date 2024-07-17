@@ -1,2 +1,2 @@
 # PortFolio
-✨This is Codesoft project
+✨This is Codsoft project
