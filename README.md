@@ -32,15 +32,11 @@ Welcome to my portfolio! This repository contains the projects I’ve built to e
 - **Frameworks**: Django, Quasar, React (Learning)  
 - **Tools**: Git, GitHub, Colab, Jupyter, VS Code
 
----
-
-## 📈 GitHub Stats (Optional)
-![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [GitHub](https://github.com/your-username)
+- [LinkedIn](www.linkedin.com/in/shikha-singh-b9a43024b)  
+- [GitHub](https://github.com/Shikha4554)
 
 Thanks for visiting! ⭐
